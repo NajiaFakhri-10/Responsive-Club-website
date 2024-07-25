@@ -1,0 +1,25 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #2beb91;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.club-info, .testimonials, .join-us {
+    margin: 20px;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+footer {
+    font-weight: bold;
+}
